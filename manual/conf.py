@@ -282,7 +282,7 @@ latex_elements = {
   'babel': '\\usepackage[english]{babel}',
 
 # Latex figure (float) alignment
-  'figure_align': 'htbp',
+  'figure_align': 'H',
 
 }
 
